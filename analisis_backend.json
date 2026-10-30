@@ -1,0 +1,22 @@
+{
+  "kpi": {
+    "ventas_totales": 46064550.51,
+    "ganancia_total": 10442696.78,
+    "margen_promedio_pct": 22.86,
+    "region_lider": "Sur",
+    "categoria_lider": "Vinos y Bebidas"
+  },
+  "pronostico_ventas": {
+    "2025-01-01": 1376703.03,
+    "2025-02-01": 1274010.81,
+    "2025-03-01": 1366531.94,
+    "2025-04-01": 1399982.54,
+    "2025-05-01": 1084713.56,
+    "2025-06-01": 1218624.55
+  },
+  "metricas_modelos": {
+    "mae_holt_winters": 243296.57,
+    "rmse_holt_winters": 301455.62,
+    "mae_lstm": 148061.52
+  }
+}
